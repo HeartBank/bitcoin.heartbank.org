@@ -9,3 +9,4 @@ blockchain.addBlock("three")
 blockchain.addBlock("four")
 
 console.log(blockchain)
+console.log("hello world")
